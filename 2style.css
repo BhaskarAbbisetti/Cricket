@@ -4,10 +4,7 @@
 }
 body{
  background-color:#1F2833;
- width:100vw;
-}
-html{
-    border: 2px solid #C5C6C7;
+ border: 2px solid #C5C6C7;
 }
 #title{
     text-align: center;
@@ -92,4 +89,7 @@ footer{
 }
 a:hover{
     color:saddlebrown;
+}
+
+#content{
 }
